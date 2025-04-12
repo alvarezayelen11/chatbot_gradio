@@ -1,0 +1,14 @@
+# Entorno virtual
+env_gradio/
+
+# Variables secretas
+.env
+
+# Archivos de sistema Python
+__pycache__/
+
+# Bases de datos locales
+chroma_v2/
+
+# Archivos temporales de Gradio
+.gradio/

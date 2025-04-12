@@ -1,0 +1,68 @@
+Fecha y lugar nacimiento
+Juan Pérez nació 01/01/2000. Vive actualmente Villa Crespo. 
+Estudios
+Carrera Actuario 75% completada, Universidad de Buenos Aires
+Le gustan asignaturas estadística, contabilidad. Además, realizó cursos SQL, Power BI.
+Experiencia laboral
+Prácticas analista datos trainee Empresa Fulana (03/2024 - 11/2024). Empresa logística,
+realizaba reportes stock, inventario. Aprendió análisis datos Excel, Python (numpy, pandas,
+matplotlib), gestión proyectos (JIRA), priorización tareas.
+Desde 12/2024, analista datos JR Empresa Fulana2 (retail). Desarrolla tableros control para
+decisiones comerciales, estratégicas. Aprendió SQL, Power BI.
+Referencias
+Cuenta referencias positivas supervisores Fulana, Fulana2.
+Virtudes o fortalezas: Metódico, organizado, capacidad análisis, resolución problemas, responsable.
+Defectos o debilidades: Dificultad delegar responsabilidades.
+Futuro laboral (5 años)
+Graduado actuario, experiencia sólida análisis datos, modelización estadística sector
+financiero/seguros. Busca rol mayor responsabilidad analítica avanzada, ciencia datos.
+Error cometido y solución
+Error fórmula Excel informe. Detectó, corrigió, comunicó supervisor. Implementó validaciones
+cruzadas evitar errores futuros.
+Mayor aporte/contribución
+Desarrolló tablero Power BI reduciendo 40% tiempo reportes, optimizando planificación stock,
+ventas.
+Trabajo individual/equipo
+Prefiere equipo por colaboración, pero cómodo autónomamente.
+Aspecto favorito trabajo
+Transformar datos en información útil para decisiones estratégicas.
+Aspecto menos favorito
+Tareas repetitivas (limpieza datos). Aprendió automatización optimizar tiempo.
+Movilidad y reubicación
+Sin vehículo propio, movilidad transporte público. Abierto reubicación si propuesta laboral
+justifica.
+Remuneración pretendida
+Acorde experiencia, responsabilidades. Abierto negociación.
+Motivación cambio empleo
+Busca posición full-time. Actualmente part-time. Desea mayor desarrollo análisis datos,
+proyectos desafiantes.
+Disponibilidad horaria
+Full-time, incorporación dos semanas tras oferta.
+Tiempo aviso actual trabajo
+Mínimo dos semanas.
+Entrevista técnica
+Dispuesto demostrar habilidades análisis datos, herramientas.
+Modalidad contractual
+Abierto monotributo si condiciones favorables. No interesado contratación por horas/proyecto.
+Trabajo ideal
+Análisis datos, modelización estadística, equipo aprendizaje, impacto decisiones empresariales.
+Objetivos corto/largo plazo
+Corto plazo: Completar carrera, profundizar modelización estadística, visualización
+datos.
+Largo plazo: Ciencia datos sector financiero/seguros, liderazgo analítica avanzada.
+Jefe ideal
+Claridad objetivos, feedback constructivo, confianza, autonomía, reconocimiento logros.
+Preferencia modalidad trabajo
+Mixto (presencial facilita comunicación, remoto mejora concentración). Adaptable empresa.
+Razones contratación
+Perfil técnico-analítico, proactivo, aprendizaje continuo. Experiencia reportes, tableros,
+estadística, precisión análisis datos.
+Indicador buen trabajo
+Impacto análisis decisiones. Precisión técnica, utilidad negocio. Feedback equipo.
+Conflictos laborales
+Resuelve diferencias comunicación abierta, enfoque objetivo común. Ejemplo: conciliación
+informe detallado/resumido.
+Idiomas, lenguaje Inglés B1, Portugués básico
+Habilidades blandas
+Trabajo equipo, autonomía, organización, adaptabilidad, comunicación efectiva, pensamiento
+crítico.
