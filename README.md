@@ -81,10 +81,11 @@ Podés hacerle preguntas de ejemplo o personalizadas.
 
 ---
 
+
 ## 🧑‍💻 Autor
-- [@alvarezayelen11](https://github.com/alvarezayelen11)
+[Ayelén Álvarez](https://www.linkedin.com/in/-ayelen-alvarez/)
 
 ---
 
-## 📢 Feedback
-If you have any comments, please write to me.
+## ✉️ Feedback
+Si tenés algún comentario o sugerencia sobre el proyecto, no dudes en escribirme.
