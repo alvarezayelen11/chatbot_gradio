@@ -77,7 +77,7 @@ Podés hacerle preguntas de ejemplo o personalizadas.
 ---
 
 ## 🖼️ Vista previa
-[Screenshot Asistente Virtual](https://github.com/alvarezayelen11/chatbot_gradio/blob/master/screenshot_gradio.png)
+![Screenshot Asistente Virtual](https://github.com/alvarezayelen11/chatbot_gradio/blob/master/screenshot_gradio.png)
 
 ---
 
