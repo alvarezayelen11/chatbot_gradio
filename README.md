@@ -31,7 +31,7 @@ Al igual que el otro proyecto, se trata de un **asistente virtual** que responde
 1. Cloná el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/chatbot_gradio.git
+git clone https://github.com/alvarezayelen11/chatbot_gradio.git
 cd chatbot_gradio
 ```
 
